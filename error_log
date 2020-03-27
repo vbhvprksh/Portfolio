@@ -1,0 +1,59 @@
+[22-Mar-2020 02:53:53 Etc/GMT] PHP Notice:  Undefined index: Doubt in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 5
+[22-Mar-2020 02:53:53 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 23
+[22-Mar-2020 02:53:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 23
+[22-Mar-2020 03:01:15 Etc/GMT] PHP Notice:  Undefined index: Doubt in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 5
+[22-Mar-2020 03:01:15 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 23
+[22-Mar-2020 03:01:15 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 23
+[22-Mar-2020 03:08:03 Etc/GMT] PHP Notice:  Undefined index: Doubt in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 5
+[22-Mar-2020 03:08:03 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 23
+[22-Mar-2020 03:08:03 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 23
+[22-Mar-2020 03:08:18 Etc/GMT] PHP Notice:  Undefined index: Doubt in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 5
+[22-Mar-2020 03:08:18 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 23
+[22-Mar-2020 03:08:18 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 23
+[22-Mar-2020 03:09:38 Etc/GMT] PHP Notice:  Undefined index: Doubt in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 5
+[22-Mar-2020 03:09:38 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php:24
+Stack trace:
+#0 /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php(24): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 24
+[22-Mar-2020 03:10:52 Etc/GMT] PHP Notice:  Undefined index: Doubt in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 5
+[22-Mar-2020 03:10:52 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php:24
+Stack trace:
+#0 /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php(24): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 24
+[22-Mar-2020 03:17:30 Etc/GMT] PHP Notice:  Undefined index: Doubt in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 5
+[22-Mar-2020 03:17:30 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php:24
+Stack trace:
+#0 /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php(24): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 24
+[22-Mar-2020 03:24:41 Etc/GMT] PHP Notice:  Undefined index: Doubt in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 5
+[22-Mar-2020 03:24:41 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php:24
+Stack trace:
+#0 /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php(24): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 24
+[22-Mar-2020 05:34:37 Etc/GMT] PHP Notice:  Undefined index: Doubt in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 5
+[22-Mar-2020 05:34:37 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php:24
+Stack trace:
+#0 /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php(24): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 24
+[22-Mar-2020 05:34:52 Etc/GMT] PHP Notice:  Undefined index: Fullname in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 2
+[22-Mar-2020 05:34:52 Etc/GMT] PHP Notice:  Undefined index: Email in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 3
+[22-Mar-2020 05:34:52 Etc/GMT] PHP Notice:  Undefined index: Servicereq in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 4
+[22-Mar-2020 05:34:52 Etc/GMT] PHP Notice:  Undefined index: Doubt in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 5
+[22-Mar-2020 05:39:54 Etc/GMT] PHP Notice:  Undefined index: Doubt in /home/neevinte/public_html/vaibhavprakash.in/vaibhavdb.php on line 5
